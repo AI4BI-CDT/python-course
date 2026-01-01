@@ -64,7 +64,7 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
-  e
+  
   extra_head:
     - |
         <!-- Google tag (gtag.js) -->
