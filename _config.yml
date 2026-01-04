@@ -64,8 +64,8 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
-  google_analytics_id: G-GG4E8F0CG3
-
+  analytics:
+    google_analytics_id: G-GG4E8F0CG3
   extra_css:
     - _static/custom.css
   static_path: ['_static']
